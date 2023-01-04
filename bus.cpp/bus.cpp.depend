@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1669716674 source:e:\codeblock\lovebbabr dsa practise\bus.cpp\main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+	<stack>
+
